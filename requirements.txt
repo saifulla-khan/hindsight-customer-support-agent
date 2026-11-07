@@ -1,0 +1,4 @@
+openai>=1.0
+python-dotenv>=1.0
+hindsight-client>=1.2.0
+streamlit>=1.34.0

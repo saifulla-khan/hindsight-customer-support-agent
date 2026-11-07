@@ -1,0 +1,47 @@
+[
+  {
+    "customer_id": "cust_001",
+    "name": "Alex Johnson",
+    "plan": "Enterprise",
+    "past_tickets": [
+      {
+        "ticket_id": "tkt_001",
+        "ticket_text": "Login fails after password reset",
+        "resolution": "Cleared browser cache and cookies",
+        "worked": true
+      },
+      {
+        "ticket_id": "tkt_002",
+        "ticket_text": "Invoice PDF download fails",
+        "resolution": "Disabled ad-blockers and browser extensions",
+        "worked": true
+      }
+    ]
+  },
+  {
+    "customer_id": "cust_002",
+    "name": "Maria Chen",
+    "plan": "Pro",
+    "past_tickets": [
+      {
+        "ticket_id": "tkt_003",
+        "ticket_text": "API rate-limit errors",
+        "resolution": "Upgraded to higher plan with increased rate limits",
+        "worked": true
+      }
+    ]
+  },
+  {
+    "customer_id": "cust_003",
+    "name": "David Okafor",
+    "plan": "Starter",
+    "past_tickets": [
+      {
+        "ticket_id": "tkt_004",
+        "ticket_text": "Dashboard charts not updating",
+        "resolution": "Manual refresh due to proxy server caching",
+        "worked": true
+      }
+    ]
+  }
+]

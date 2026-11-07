@@ -1,0 +1,6 @@
+.env
+.crushrc
+__pycache__/
+.venv/
+*.pdf
+blueprint.txt
